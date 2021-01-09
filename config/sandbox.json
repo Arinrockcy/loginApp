@@ -1,0 +1,10 @@
+{
+  "db":{
+    "host":"mongodb://balancestage:id8id8id8@portal-ssl3009-4.stage-deployment.521940361.composedb.com:31979,portal-ssl784-35.stage-deployment.521940361.composedb.com:31979",
+    "dataBase":"login_APP",
+    "loginCollection": "userData"
+  },
+  "JWT":{
+    "key":"1balance vendor"
+  }
+}
